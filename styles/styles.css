@@ -1,0 +1,19 @@
+body{
+    background-color:blue;
+    text-align:center;
+}
+video{
+    background-color:white;
+}
+h2, h3{
+    background-color:green;
+    color:orange;
+    border-radius:100px;
+}
+svg{
+    background-color:#463728;
+    border-radius:50px;
+}
+canvas{
+    border-radius:100px;
+}
